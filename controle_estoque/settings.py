@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 	# my apps
 	'controle_estoque.core',
+	'controle_estoque.estoque',
 	'controle_estoque.produto',
 ]
 
